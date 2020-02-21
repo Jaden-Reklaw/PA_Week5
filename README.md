@@ -12,3 +12,6 @@
 
 - Section 3
 	- Practical Teamwork: Growth Mindset
+
+- Extra
+	- Codecademy - Make A Website: Units 1 and 2
